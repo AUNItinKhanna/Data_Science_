@@ -1,11 +1,6 @@
 Customer Churn for a Telecom Company
 
 <p align="center">
-<img src='https://cdn.prod.website-files.com/63299e8be533faffbc123045/636552d0b570aa56ec6e2683_customer-churn-hero-p-1600.png'></img>
-</p>
-![image](https://github.com/user-attachments/assets/f471de47-454a-4d03-901e-6042c87bc74a)
-
-<p align="center">
 <img src='https://github.com/user-attachments/assets/f471de47-454a-4d03-901e-6042c87bc74a'></img>
 </p>
 
