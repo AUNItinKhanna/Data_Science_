@@ -1,8 +1,6 @@
 ##Customer Churn for a Telecom Company
 
-<p align="center">
-<img src='https://cdn.prod.website-files.com/63299e8be533faffbc123045/636552d0b570aa56ec6e2683_customer-churn-hero-p-1600.png'></img>
-</p>
+
 
 Customer churn, a critical metric for telecom companies, refers to the phenomenon where customers discontinue their services with a provider, opting to end subscriptions or switch to competitors. In the highly competitive telecom industry, where customers rely on services like mobile plans, internet, and cable, churn is a key indicator of a company’s performance and customer satisfaction. A high churn rate signals potential issues such as poor service quality, high pricing, or better offers from competitors, while a low churn rate reflects strong customer loyalty and effective retention strategies.
 
